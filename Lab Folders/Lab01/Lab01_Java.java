@@ -6,7 +6,7 @@ void testMethod1()
   //Second commnad print(x)
   //edit made by student
 
-  //Last line print('sayonara')
+  //Last line print('farewell')
 }
 
 void testMethod2()
